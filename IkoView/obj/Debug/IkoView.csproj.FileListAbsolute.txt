@@ -1,0 +1,8 @@
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\bin\Debug\IkoView.exe
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\bin\Debug\IkoView.pdb
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\obj\Debug\IkoView.csprojResolveAssemblyReference.cache
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\obj\Debug\IkoView.Form1.resources
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\obj\Debug\IkoView.Properties.Resources.resources
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\obj\Debug\IkoView.csproj.GenerateResource.Cache
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\obj\Debug\IkoView.exe
+c:\users\g\documents\visual studio 2012\Projects\IkoView\IkoView\obj\Debug\IkoView.pdb
